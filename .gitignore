@@ -1,0 +1,7 @@
+features
+datasets/kaggle_dogs_vs_cats/
+__pycache__
+output/fine_tuned_flower17.model
+output/flower_17.cpickle
+output/animals.cpickle
+.idea
